@@ -1,3 +1,1 @@
-# GeneradorSQLWeb
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/jclosadev/GeneradorSQLWeb)
+Generador SQL Webn creado con React, Tailwind, TypeScript, HTML, CSS
